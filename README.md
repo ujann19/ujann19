@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujan71643" target="blank"><img src="https://img.shields.io/twitter/follow/ujan71643?logo=twitter&style=for-the-badge" alt="ujan71643" /></a> </p>
 
-- 🌱 I’m currently learning ** MERN Stack  **
+- 🌱 I’m currently learning **M E R N Stack**
 
 - 💬 Ask me about **Html , CSS , Javascript**
 
